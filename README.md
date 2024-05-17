@@ -5,7 +5,7 @@ The date and time calculator is a shell script for Linux. It allows adding/subtr
 
 - [Overview](https://github.com/NisalWick2002/Linux-Terminal-Date-and-Time-Calculator?tab=readme-ov-file#overview-)
 - [Features](https://github.com/NisalWick2002/Linux-Terminal-Date-and-Time-Calculator?tab=readme-ov-file#features-%EF%B8%8F)
-- [Steps](https://github.com/NisalWick2002/Linux-Terminal-Date-and-Time-Calculator?tab=readme-ov-file#steps-%EF%B8%8F)
+- [Steps](https://github.com/NisalWick2002/Linux-Terminal-Date-and-Time-Calculator?tab=readme-ov-file#steps-)
 
 
 ## Overview 📋

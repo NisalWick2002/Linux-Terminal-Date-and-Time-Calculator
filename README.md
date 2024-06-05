@@ -30,5 +30,3 @@ The date and time calculator is a versatile and efficient tool designed to perfo
      - chmod +x date_time_calculator.sh
 3. Then run the script by typing:
      - ./date_time_calculator.sh
-
-

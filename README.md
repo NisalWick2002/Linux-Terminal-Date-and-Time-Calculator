@@ -32,5 +32,3 @@ The date and time calculator is a versatile and efficient tool designed to perfo
      - ./date_time_calculator.sh
 
 
-
-
